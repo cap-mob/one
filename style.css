@@ -3,7 +3,7 @@
     height: 100%;
     justify-content: center;
     font-family: "Source Sans 3", sans-serif;
-    height: 80vh;
+    height: 70vh;
     align-items: center;
     font-size: 1rem;
 }
@@ -53,4 +53,5 @@ li{
 .plan-title{
     font-weight: 500;
     margin-bottom: 10px;
+
 }
